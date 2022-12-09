@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "block-chat",
+    "slug": "block-chat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "block-chat"
+}
